@@ -130,11 +130,6 @@ Every time you are asked to make a change follow:
 
 # Practice
 
-## Keep a Log
-
-* Keep a log of every action you take and the reason you took it.
-* Report that log upon completion.
-
 ## Guard the Context Window
 
 * Keep the main thread small.
