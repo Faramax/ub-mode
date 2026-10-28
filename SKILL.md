@@ -107,17 +107,17 @@ Every time you are asked to make a change follow:
 
 ## Crapper
 
-* Use the crapper tool
+* Use the crapper tool. If it is not installed, ask before installing it.
 * Reduce each function under  CRAP 10 by splitting it, by testing it, or both.
 * Consider whether case statements are worth reducing.
 
 ## Dryer
 
-* Use the dryer tool to eliminate duplication that rank 0.8 or above.
+* Use the dryer tool to eliminate duplication that rank 0.8 or above. If it is not installed, ask before installing it.
 
 ## Mutator
 
-* Use the mutator tool
+* Use the mutator tool. If it is not installed, ask before installing it.
 * Cover the uncovered.
 * Kill the survivors.
 * Delete dead code.
