@@ -147,6 +147,7 @@ Every time you are asked to make a change follow:
 
 ## Commit and Push
 
-* Commit often, in small ordered commits.
+* Commit only when the user or the repository rules authorize it; otherwise leave the verified changes uncommitted.
+* Commit in small ordered commits.
 * Each commit says why, what changed, and how you proved it.
-* Push to the main line at the end.
+* Push only when the user explicitly asks.
